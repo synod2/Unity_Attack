@@ -1,0 +1,16 @@
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\obj\Debug\unity_injection_1.csproj.CoreCompileInputs.cache
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\unity_injection_1.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\unity_injection_1.pdb
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\UnityEditor.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\UnityEngine.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\Unity.Cecil.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\ExCSS.Unity.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\Unity.CecilTools.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\UnityEditor.xml
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\bin\Debug\UnityEngine.xml
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\obj\Debug\unity_injection_1.csproj.CopyComplete
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\obj\Debug\unity_injection_1.dll
+C:\Users\synod\source\repos\unity_injection_1\unity_injection_1\obj\Debug\unity_injection_1.pdb
