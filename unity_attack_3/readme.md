@@ -1,5 +1,7 @@
 # Unity Attack : 3. 엔진의 구조
 
+https://github.com/synod2/Unity_Attack
+
 Unity 구조분석 1과 2에서 치트엔진을 가지고 많은 삽질을 했었다. 
 
 최종적으로 알아낸 건 **Object → Health 컴포넌트 → 체력 값** 순의 구조를 가지고 있다는 것.
