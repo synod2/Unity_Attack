@@ -1,7 +1,5 @@
 # Unity Attack : 3. 엔진의 구조
 
-https://github.com/synod2/Unity_Attack
-
 Unity 구조분석 1과 2에서 치트엔진을 가지고 많은 삽질을 했었다. 
 
 최종적으로 알아낸 건 **Object → Health 컴포넌트 → 체력 값** 순의 구조를 가지고 있다는 것.
@@ -235,7 +233,7 @@ unityAction 객체는 위와 같이 사전에 정의되어 사용하는 Delegate
             unity_builtin_extra
 ```
 
-[유니티 디렉토리 구조](https://www.notion.so/c02adc0aaf824d3d9fd8424e8fe31c5a)
+![image-20210515023507199](C:\Users\synod\Documents\포트폴리오\unity attack\unity_attack_3\img\image-20210515023507199.png)
 
 .asset과 .resS 파일은 전용 도구를 이용하여 에셋들을 추출해 낼 수 있다. 
 
